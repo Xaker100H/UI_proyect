@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Hugo/Documents/Unreal Projects/UI_Project/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/Hugo/Documents/Unreal Projects/UI_Project/Content/Widgets/WB_SkillNodeWidget.uasset",
+				"C:/Users/Hugo/Documents/Unreal Projects/UI_Project/Content/Widgets/WB_HabilityTree.uasset",
+				"C:/Users/Hugo/Documents/Unreal Projects/UI_Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Hugo/Documents/Unreal Projects/UI_Project/Content/Widgets/WB_Instrucciones.uasset",
+				"C:/Users/Hugo/Documents/Unreal Projects/UI_Project/Content/Widgets/WB_Intructions.uasset"
+			]
+		}
+	]
+}
